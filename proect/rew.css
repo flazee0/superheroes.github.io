@@ -1,0 +1,135 @@
+.dav {
+    background-image: url(background-1939128_960_720.jpg);
+
+}
+
+.container {
+    display: flex;
+    height: 960px;
+    margin: auto;
+
+}
+
+.container2 {
+    font-size: 45px;
+    width: 42%;
+    border: 2px solid white;
+    height: 282px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: aquamarine;
+    font-family: sans-serif;
+    
+}
+
+
+.container3 {
+    font-size: 32px;
+    border: 2px solid white;
+    background-color: darkorange;
+    width: 32%;
+    height: 310px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: sans-serif;
+}
+
+.card {
+
+    background: #b5bdc8;
+    background: linear-gradient(to top, #b5bdc8 0%, #828c95 36%, #28343b 100%);
+    font-size: 18px; 
+    padding: 10px 20px; 
+    color: #fff; 
+    border: 1px solid #333; 
+    border-radius: 15px; 
+    text-decoration: none;
+}
+
+.card2 {
+    background: #b5bdc8;
+    background: linear-gradient(to top, #b5bdc8 0%, #828c95 36%, #28343b 100%);
+    font-size: 20px; 
+    padding: 10px 20px; 
+    color: #fff; 
+    border: 1px solid #333; 
+    border-radius: 10px; 
+    text-decoration: none;
+    
+}
+
+.container3 p {
+    color: #2980b9;
+    font-size: 14px;
+    margin: 5px;
+}
+
+@media(max-width:1600px) {
+    .container2{
+        width: 500px;
+        height: 500px;
+        padding: 10px; 
+    }
+}
+
+@media(max-width:1366px) {
+    .container2{
+        width: 450px;
+        height: 450px;
+        padding: 10px; 
+    }
+}
+
+@media(max-width:1024px) {
+    .container2{
+        width: 400px;
+        height: 400px;
+        padding: 10px; 
+    }
+}
+
+@media(max-width:768px) {
+    .container2{
+        width: 300px;
+        height: 300px;
+        padding: 10px; 
+    }
+}
+
+@media(max-width:1600px) {
+    .container3 {
+        width: 500px;
+        height: 500px;
+        padding: 10px; 
+    }
+}
+
+@media(max-width:1366px) {
+    .container3 {
+        width: 450px;
+        height: 450px;
+        padding: 10px; 
+    }
+}
+
+@media(max-width:1024px) {
+    .container3 {
+        width: 400px;
+        height: 400px;
+        padding: 10px; 
+    }
+}
+
+@media(max-width:768px) {
+    .container3 {
+        width: 300px;
+        height: 400px;
+        padding: 10px; 
+    }
+}

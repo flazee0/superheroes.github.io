@@ -1,0 +1,186 @@
+.f11 {
+width: 200px;
+height: 50px;
+background-color: white;
+border: 2px double grey;
+}
+.f22 {
+width: 200px;
+height: 50px;
+background-color: blue;
+border: 2px double grey;
+}
+.f33 {
+width: 200px;
+height: 50px;
+background-color: red;
+border: 2px double grey;
+}
+.h{
+vertical-align: top;
+margin: 20px;
+padding: 20px;
+background-color: antiquewhite;
+border: 1px solid black;
+display: inline-block;
+width: 30%;
+
+}
+.c{
+color:firebrick;
+font-style: italic;
+font-weight: bold;
+}
+
+.r{
+
+margin: 20px;
+padding: 20px;
+background-color: antiquewhite;
+border: 1px solid black;
+display: inline-block;
+width: 30%;
+
+}
+.q {
+font-family: monospace;
+font-size: 30px;
+color:darkblue;
+}
+body{
+font-family: 'Arial';
+margin: 0;
+}
+
+.mainheader{
+position:
+
+}
+.mainheader{
+background-color: orange;
+color: #fff;
+padding: 20px 100px;
+position: fixed;
+width: 100%;
+}
+
+.mainnav-link{
+color:darkblue;
+}
+
+.mainnav-list{
+margin: 0;
+padding: 0;
+}
+
+.mainnav-item{
+color:darkblue;
+background-color: chartreuse;
+display: inline-block;
+padding: 10px 10px;
+border: 1px solid #fff;
+
+}
+
+.mainnav-item:hover {
+background-color:teal;
+
+
+}
+.mainnav-item:active{
+background-color: #fff;
+}
+main{
+padding: 50px 100px;
+}
+
+.mainfooter{
+padding: 10px 100px;
+background-color: darkslategray;
+color: #fff;
+position: fixed;
+width: 100%;
+bottom: 1px;
+}
+.hero{
+vertical-align: top;
+margin: 20px;
+padding: 20px;
+text-align: center;
+background-color: gold;
+border: 1px solid black;
+display: inline-block;
+width: 21%;
+font-family: fantasy;
+}
+.hero1{
+vertical-align: top;
+margin: 20px;
+padding: 20px;
+text-align: center;
+background-color: lightblue;
+border: 1px solid black;
+display: inline-block;
+width: 21%;
+font-family: fantasy;
+}
+.hero2{
+vertical-align: right;
+margin: 15px;
+padding: 15px;
+text-align: center;
+background-color: dimgrey;
+border: 1px solid black;
+display: inline-block;
+width: 21%;
+font-family: fantasy;
+
+}
+.photo1{
+vertical-align: top;
+margin: 10px;
+padding: 10px;
+text-align: center;
+
+width: 21%;
+
+}
+.photo2{
+vertical-align: right;
+margin: 10px;
+padding: 10px;
+text-align: center;
+
+width: 70%;
+
+}
+.photo3{
+vertical-align: right;
+margin: 10px;
+padding: 10px;
+text-align: center;
+
+width: 90%;
+
+}
+.link1{
+vertical-align: top;
+margin: 20px;
+padding: 20px;
+text-align: center;
+background-color:darksalmon;
+border: 1px solid black;
+display: inline-block;
+width: 21%;
+font-family: fantasy;
+text-decoration: none;
+}
+.link1:hover {
+background-color:teal;
+
+
+}
+
+body {
+background-color: lightcoral;
+}
